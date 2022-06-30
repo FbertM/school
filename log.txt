@@ -1,0 +1,35 @@
+"2022-06-30 18:39:41.7718527 SE Asia Standard Time" : Subject Name : Jepang
+"2022-06-30 18:44:46.9784261 SE Asia Standard Time" : Activity of Subject : UTS
+"2022-06-30 18:44:46.9794206 SE Asia Standard Time" : Percentage Activity UTSis :15
+"2022-06-30 18:44:46.9804168 SE Asia Standard Time" : Input Succedd
+"2022-06-30 18:46:04.6917178 SE Asia Standard Time" : Activity of Subject : UAS
+"2022-06-30 18:46:04.6937061 SE Asia Standard Time" : Percentage Activity UAS is : 25
+"2022-06-30 18:46:04.6947195 SE Asia Standard Time" : Input Succedd
+"2022-06-30 18:46:18.0683848 SE Asia Standard Time" : Activity of Subject : UTS
+"2022-06-30 18:46:18.0703922 SE Asia Standard Time" : Percentage Activity UTS is : 30
+"2022-06-30 18:46:18.0713672 SE Asia Standard Time" : Input already Exist of The Activity Subject
+"2022-06-30 18:49:07.8846996 SE Asia Standard Time" : Update Activity Subject From Persentase {namaPeriod = "UTS", persentase = 15} To be [Persentase {namaPeriod = "UTS", persentase = 22}]
+"2022-06-30 18:50:23.6366916 SE Asia Standard Time" : Activity Subject Persentase {namaPeriod = "UTS", persentase = 22} is deleted 
+"2022-06-30 18:50:33.1898358 SE Asia Standard Time" : Activity of Subject : UTS
+"2022-06-30 18:50:33.1961402 SE Asia Standard Time" : Percentage Activity UTS is : 25
+"2022-06-30 18:50:33.1981362 SE Asia Standard Time" : Input Succedd
+"2022-06-30 18:50:55.7713911 SE Asia Standard Time" : Student Name : Filbert
+"2022-06-30 18:50:55.772384 SE Asia Standard Time" : Grade : XII
+"2022-06-30 18:50:55.7733789 SE Asia Standard Time" : NIK : 23565632
+"2022-06-30 18:50:55.7743802 SE Asia Standard Time" : Umur :12
+"2022-06-30 18:50:55.7753858 SE Asia Standard Time" : Input Succedd
+"2022-06-30 18:52:16.2098833 SE Asia Standard Time" : Update Murid From Murid {namaMurid = "Filbert", kelas = "XII", umur = 12, nik = 23565632} To be Murid {namaMurid = "Filbert", kelas = "XI", umur = 22, nik = 123145646}
+"2022-06-30 18:53:53.3244114 SE Asia Standard Time" : Update Murid From Murid {namaMurid = "Filbert", kelas = "XI", umur = 22, nik = 123145646} To be Murid {namaMurid = "Filbert", kelas = "IX", umur = 21, nik = 5563232}
+"2022-06-30 18:55:38.3795195 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-06-30 18:55:38.4124369 SE Asia Standard Time" : Choose Subject  Jepang
+"2022-06-30 18:55:38.4144317 SE Asia Standard Time" : Choose Subject Activity UTS
+"2022-06-30 18:55:38.4154227 SE Asia Standard Time" : Score : 80
+"2022-06-30 18:55:38.4164234 SE Asia Standard Time" : Percentage Subject Activity of UTS is : 25
+"2022-06-30 18:55:38.4174232 SE Asia Standard Time" : Input Examination succedd
+"2022-06-30 18:56:09.2461344 SE Asia Standard Time" : Update Examination Student From Nilai {murid = "Filbert", mapel = "Jepang", period = "UTS", nilai = 80, pers = 25} To be Nilai {murid = "Filbert", mapel = "Jepang", period = "UTS", nilai = 85, pers = 25}
+"2022-06-30 18:56:22.9101915 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-06-30 18:56:22.9167178 SE Asia Standard Time" : Choose Subject  Jepang
+"2022-06-30 18:56:22.9177166 SE Asia Standard Time" : Choose Subject Activity UTS
+"2022-06-30 18:56:22.9197096 SE Asia Standard Time" : Score : 85
+"2022-06-30 18:56:22.9207073 SE Asia Standard Time" : Percentage Subject Activity of UTS is : 25
+"2022-06-30 18:56:22.9227041 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
