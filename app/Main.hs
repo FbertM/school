@@ -38,7 +38,7 @@ askTheInteger question = do
     hFlush stdout
     ans <- getLine
     if((readMaybe ans :: Maybe Int) == Nothing) then do
-        putStr "Tolong Input berupa numeric"
+        putStrLn "Please only input Numeric"
         ans <- askTheInteger question
         return ans
     else
@@ -90,7 +90,7 @@ inputNilai murid pel pers nilai = do
 pkExistMurid :: [Murid] -> Murid -> Bool
 pkExistMurid [] y = False
 pkExistMurid (x:xs) y
-    | getNama(x) == getNama(y) && getKelas x == getKelas y && getNik x == getNik y = True
+    | getNama(x) == getNama(y) = True
     | otherwise = pkExistMurid xs y
     where getNama(Murid{namaMurid = x}) = fmap toLower x
           getKelas(Murid{kelas =x })= x

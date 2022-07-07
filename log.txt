@@ -162,3 +162,25 @@
 "2022-07-06 18:53:10.3010698 SE Asia Standard Time" : Score : 99
 "2022-07-06 18:53:10.3020824 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
 "2022-07-06 18:53:10.3030932 SE Asia Standard Time" : Input Examination succedd
+"2022-07-07 19:20:47.8304163 SE Asia Standard Time" : Subject Name : Laravel
+"2022-07-07 19:20:47.8493642 SE Asia Standard Time" : Input Subject Name Laravel already exist
+"2022-07-07 19:22:40.3313204 SE Asia Standard Time" : Update Activity Subject From Persentase {namaPeriod = "Exam 1", persentase = 25} To be [Persentase {namaPeriod = "Exam 1", persentase = 26},Persentase {namaPeriod = "Exam 2", persentase = 25},Persentase {namaPeriod = "Final Exam", persentase = 50}]
+"2022-07-07 19:22:49.5972584 SE Asia Standard Time" : Update Activity Subject From Persentase {namaPeriod = "Exam 1", persentase = 26} To be [Persentase {namaPeriod = "Exam 1", persentase = 25},Persentase {namaPeriod = "Exam 2", persentase = 25},Persentase {namaPeriod = "Final Exam", persentase = 50}]
+"2022-07-07 19:23:38.8294119 SE Asia Standard Time" : Update Activity Subject From Persentase {namaPeriod = "Exam 1", persentase = 25} To be [Persentase {namaPeriod = "Exam 1", persentase = 25},Persentase {namaPeriod = "Exam 2", persentase = 25},Persentase {namaPeriod = "Final Exam", persentase = 50}]
+"2022-07-07 19:24:11.3101648 SE Asia Standard Time" : Student Name : Filbert
+"2022-07-07 19:24:11.312159 SE Asia Standard Time" : Grade : 15
+"2022-07-07 19:24:11.313158 SE Asia Standard Time" : NIK : 15654631
+"2022-07-07 19:24:11.3151508 SE Asia Standard Time" : Umur :25
+"2022-07-07 19:24:11.3161514 SE Asia Standard Time" : Input Succedd
+"2022-07-07 19:25:11.0908582 SE Asia Standard Time" : Student Name : Filbert
+"2022-07-07 19:25:11.0918514 SE Asia Standard Time" : Grade : XII
+"2022-07-07 19:25:11.0918514 SE Asia Standard Time" : NIK : 23
+"2022-07-07 19:25:11.0928526 SE Asia Standard Time" : Umur :15
+"2022-07-07 19:25:11.0938562 SE Asia Standard Time" : Input already existed
+"2022-07-07 19:25:44.0205772 SE Asia Standard Time" : Update Murid From Murid {namaMurid = "Filbert", kelas = "XII", umur = 23, nik = 23} To be Murid {namaMurid = "Filbert", kelas = "XI", umur = 15, nik = 546497631}
+"2022-07-07 19:26:12.6037329 SE Asia Standard Time" : Update Examination Student From Nilai {murid = "Filbert", mapel = "Laravel", period = "Exam 1", nilai = 100, pers = 25} To be Nilai {murid = "Filbert", mapel = "Laravel", period = "Exam 1", nilai = 100, pers = 25}
+"2022-07-07 19:33:56.5250414 SE Asia Standard Time" : Student Name : Filbert
+"2022-07-07 19:33:56.5270407 SE Asia Standard Time" : Grade : 32
+"2022-07-07 19:33:56.5280306 SE Asia Standard Time" : NIK : 232323
+"2022-07-07 19:33:56.5290354 SE Asia Standard Time" : Umur :23
+"2022-07-07 19:33:56.5310224 SE Asia Standard Time" : Input already existed
