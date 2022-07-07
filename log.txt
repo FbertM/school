@@ -184,3 +184,27 @@
 "2022-07-07 19:33:56.5280306 SE Asia Standard Time" : NIK : 232323
 "2022-07-07 19:33:56.5290354 SE Asia Standard Time" : Umur :23
 "2022-07-07 19:33:56.5310224 SE Asia Standard Time" : Input already existed
+"2022-07-07 19:47:47.511704 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-07 19:47:47.5197908 SE Asia Standard Time" : Choose Subject  Javascript
+"2022-07-07 19:47:47.520789 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-07 19:47:47.521788 SE Asia Standard Time" : Score : 80
+"2022-07-07 19:47:47.5227836 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-07 19:47:47.5237819 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
+"2022-07-07 19:48:49.6051112 SE Asia Standard Time" : Chooose Student :  Jeffry
+"2022-07-07 19:48:49.6071108 SE Asia Standard Time" : Choose Subject  Japanese
+"2022-07-07 19:48:49.6081103 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-07 19:48:49.6101004 SE Asia Standard Time" : Score : 85
+"2022-07-07 19:48:49.6110951 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-07 19:48:49.6130896 SE Asia Standard Time" : Input Examination succedd
+"2022-07-07 19:49:13.8630743 SE Asia Standard Time" : Chooose Student :  Jeffry
+"2022-07-07 19:49:13.865063 SE Asia Standard Time" : Choose Subject  Japanese
+"2022-07-07 19:49:13.8660689 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-07 19:49:13.8670621 SE Asia Standard Time" : Score : 90
+"2022-07-07 19:49:13.8690567 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-07 19:49:13.871043 SE Asia Standard Time" : Input Examination succedd
+"2022-07-07 19:49:21.2050459 SE Asia Standard Time" : Chooose Student :  Jeffry
+"2022-07-07 19:49:21.2070712 SE Asia Standard Time" : Choose Subject  Japanese
+"2022-07-07 19:49:21.2080428 SE Asia Standard Time" : Choose Subject Activity Final Exam
+"2022-07-07 19:49:21.2090403 SE Asia Standard Time" : Score : 100
+"2022-07-07 19:49:21.2110331 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
+"2022-07-07 19:49:21.2120316 SE Asia Standard Time" : Input Examination succedd

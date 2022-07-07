@@ -53,16 +53,44 @@ pkExistNilai (x:xs) y
           getMapel(Nilai {mapel =x })= x
           getPeriod(Nilai {period= x}) = x
 
+inputNilaiMurid ::[Murid] -> IO Int
+inputNilaiMurid murid = do 
+    viewMurid murid
+    noMurids <- askTheInteger "Input Number of the Chosen Student :"
+    if (noMurids < 1 || noMurids > length (murid) )
+        then do 
+            putStrLn "Number not existed"
+            inputNilaiMurid murid
+        else return noMurids
+
+inputNilaiPelajaran :: [Pelajaran] -> IO Int
+inputNilaiPelajaran pel = do 
+    viewPelajaran pel
+    noPel <- askTheInteger "Input Number of the Chosen Subject :"
+    if (noPel < 1 || noPel > length (pel) )
+        then do 
+            putStrLn "Number not existed"
+            inputNilaiPelajaran pel
+        else return noPel
+
+inputNilaiPersentase :: [Persentase] -> IO Int
+inputNilaiPersentase pers = do 
+    viewPersentase pers
+    nopers <- askTheInteger "Input Number of the Chosen Activity :"
+    if (nopers < 1 || nopers > length (pers) )
+        then do 
+            putStrLn "Number not existed"
+            inputNilaiPersentase pers
+        else return nopers
+
 inputNilai :: [Murid] -> [Pelajaran] -> [Persentase] -> [Nilai] -> WriterT [String] IO [Nilai]
 inputNilai murid pel pers nilai = do 
-    liftIO $ viewMurid murid
-    noMurids <- liftIO $ askTheInteger "Input Number of the Chosen Student :"
+    noMurids <- liftIO $ inputNilaiMurid murid
     
-    liftIO $ viewPelajaran pel
-    noPel <- liftIO $ askTheInteger "Input Number of the Chosen Subject :"
+    noPel <- liftIO $ inputNilaiPelajaran pel   
     
-    liftIO $ viewPersentase pers
-    nopers <- liftIO $ askTheInteger "Input Number of the Chosen Activity :"
+    nopers <- liftIO $ inputNilaiPersentase pers
+     
     score <- liftIO $ askTheInteger "Nilai :"
     let murid = naRid ( murid' noMurids )
     let mapel =  naPel ( pel' noPel )

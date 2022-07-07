@@ -58,3 +58,18 @@ English
 Final Exam
 99
 50
+Jeffry
+Japanese
+Exam 1
+85
+25
+Jeffry
+Japanese
+Exam 2
+90
+25
+Jeffry
+Japanese
+Final Exam
+100
+50
