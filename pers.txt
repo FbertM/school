@@ -1,2 +1,6 @@
-UTS
+Exam 1
 25
+Exam 2
+25
+Final Exam
+50

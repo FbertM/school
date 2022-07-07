@@ -1,1 +1,5 @@
-Jepang
+Laravel
+Javascript
+English
+PPKN
+Japanese

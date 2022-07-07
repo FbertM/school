@@ -33,3 +33,132 @@
 "2022-06-30 18:56:22.9197096 SE Asia Standard Time" : Score : 85
 "2022-06-30 18:56:22.9207073 SE Asia Standard Time" : Percentage Subject Activity of UTS is : 25
 "2022-06-30 18:56:22.9227041 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
+"2022-07-06 18:19:50.4405103 SE Asia Standard Time" : Examination Student Nilai {murid = "Filbert", mapel = "Jepang", period = "UTS", nilai = 85, pers = 25} is deleted 
+"2022-07-06 18:20:03.0795216 SE Asia Standard Time" : Activity Subject Persentase {namaPeriod = "UTS", persentase = 25} is deleted 
+"2022-07-06 18:20:29.4622616 SE Asia Standard Time" : Murid Murid {namaMurid = "Filbert", kelas = "IX", umur = 21, nik = 5563232} is deleted 
+"2022-07-06 18:20:33.2969877 SE Asia Standard Time" : Subject Pel {namaPelajaran = "Jepang"} is deleted 
+"2022-07-06 18:20:45.3186746 SE Asia Standard Time" : Subject Name : Laravel
+"2022-07-06 18:20:45.3196684 SE Asia Standard Time" : Input Subject succedd
+"2022-07-06 18:20:48.4862181 SE Asia Standard Time" : Subject Name : Javascript
+"2022-07-06 18:20:48.4872163 SE Asia Standard Time" : Input Subject succedd
+"2022-07-06 18:20:52.7908193 SE Asia Standard Time" : Subject Name : English
+"2022-07-06 18:20:52.7918124 SE Asia Standard Time" : Input Subject succedd
+"2022-07-06 18:20:56.8793987 SE Asia Standard Time" : Subject Name : PPKN
+"2022-07-06 18:20:56.8803947 SE Asia Standard Time" : Input Subject succedd
+"2022-07-06 18:21:03.4319041 SE Asia Standard Time" : Subject Name : Japanese
+"2022-07-06 18:21:03.4329034 SE Asia Standard Time" : Input Subject succedd
+"2022-07-06 18:21:18.3108899 SE Asia Standard Time" : Activity of Subject : Exam 1
+"2022-07-06 18:21:18.3118869 SE Asia Standard Time" : Percentage Activity Exam 1 is : 25
+"2022-07-06 18:21:18.3128846 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:21:23.1670065 SE Asia Standard Time" : Activity of Subject : Exam 2
+"2022-07-06 18:21:23.1680014 SE Asia Standard Time" : Percentage Activity Exam 2 is : 25
+"2022-07-06 18:21:23.1689989 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:21:29.2230111 SE Asia Standard Time" : Activity of Subject : Final Exam
+"2022-07-06 18:21:29.2240128 SE Asia Standard Time" : Percentage Activity Final Exam is : 50
+"2022-07-06 18:21:29.2250051 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:21:54.7436657 SE Asia Standard Time" : Student Name : Filbert
+"2022-07-06 18:21:54.7446568 SE Asia Standard Time" : Grade : XI
+"2022-07-06 18:21:54.7486468 SE Asia Standard Time" : NIK : 23565989833
+"2022-07-06 18:21:54.7496447 SE Asia Standard Time" : Umur :23
+"2022-07-06 18:21:54.7506409 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:22:15.3118535 SE Asia Standard Time" : Student Name : Alfredo
+"2022-07-06 18:22:15.3128498 SE Asia Standard Time" : Grade : XII
+"2022-07-06 18:22:15.3148474 SE Asia Standard Time" : NIK : 565689333241
+"2022-07-06 18:22:15.3158526 SE Asia Standard Time" : Umur :55
+"2022-07-06 18:22:15.3168419 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:22:25.96763 SE Asia Standard Time" : Student Name : Jeffry
+"2022-07-06 18:22:25.96763 SE Asia Standard Time" : Grade : XII
+"2022-07-06 18:22:25.9686252 SE Asia Standard Time" : NIK : 55652323232
+"2022-07-06 18:22:25.96962 SE Asia Standard Time" : Umur :11
+"2022-07-06 18:22:25.9706165 SE Asia Standard Time" : Input Succedd
+"2022-07-06 18:22:40.0168743 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:22:40.0178673 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:22:40.0198619 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:22:40.0208627 SE Asia Standard Time" : Score : 100
+"2022-07-06 18:22:40.0218664 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:22:40.0238508 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:22:49.4807356 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:22:49.4817326 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:22:49.4827252 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:22:49.4847192 SE Asia Standard Time" : Score : 90
+"2022-07-06 18:22:49.4857155 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:22:49.4867116 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
+"2022-07-06 18:22:59.3040062 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:22:59.3060046 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:22:59.3069985 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:22:59.3089913 SE Asia Standard Time" : Score : 52
+"2022-07-06 18:22:59.3099943 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:22:59.3109872 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
+"2022-07-06 18:23:05.8966373 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:23:05.8986358 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:23:05.8996368 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-06 18:23:05.9006304 SE Asia Standard Time" : Score : 88
+"2022-07-06 18:23:05.9016268 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-06 18:23:05.9036272 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:14.0645514 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:23:14.0665552 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:23:14.067544 SE Asia Standard Time" : Choose Subject Activity Final Exam
+"2022-07-06 18:23:14.0685397 SE Asia Standard Time" : Score : 99
+"2022-07-06 18:23:14.069545 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
+"2022-07-06 18:23:14.0715347 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:25.1760032 SE Asia Standard Time" : Chooose Student :  Alfredo
+"2022-07-06 18:23:25.1770003 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:23:25.1790006 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:23:25.1799891 SE Asia Standard Time" : Score : 99
+"2022-07-06 18:23:25.1809875 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:23:25.1829842 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:33.3288096 SE Asia Standard Time" : Chooose Student :  Alfredo
+"2022-07-06 18:23:33.3308109 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:23:33.331811 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-06 18:23:33.3328032 SE Asia Standard Time" : Score : 99
+"2022-07-06 18:23:33.3347928 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-06 18:23:33.3358012 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:39.9827426 SE Asia Standard Time" : Chooose Student :  Alfredo
+"2022-07-06 18:23:39.9837399 SE Asia Standard Time" : Choose Subject  Laravel
+"2022-07-06 18:23:39.9847398 SE Asia Standard Time" : Choose Subject Activity Final Exam
+"2022-07-06 18:23:39.9857346 SE Asia Standard Time" : Score : 100
+"2022-07-06 18:23:39.9867319 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
+"2022-07-06 18:23:39.9877305 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:47.9922045 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:23:47.9932151 SE Asia Standard Time" : Choose Subject  Javascript
+"2022-07-06 18:23:47.9942044 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:23:47.9942044 SE Asia Standard Time" : Score : 70
+"2022-07-06 18:23:47.9951969 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:23:47.9962091 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:23:54.8246041 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:23:54.825601 SE Asia Standard Time" : Choose Subject  Javascript
+"2022-07-06 18:23:54.8275963 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-06 18:23:54.83358 SE Asia Standard Time" : Score : 80
+"2022-07-06 18:23:54.8345785 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-06 18:23:54.8365721 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:24:03.7597939 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:24:03.7617847 SE Asia Standard Time" : Choose Subject  Javascript
+"2022-07-06 18:24:03.7627838 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-06 18:24:03.7647763 SE Asia Standard Time" : Score : 90
+"2022-07-06 18:24:03.7657734 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-06 18:24:03.7677686 SE Asia Standard Time" : Input already exist with The Primary Key of Student, Subject and Student Activity
+"2022-07-06 18:24:08.5807076 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:24:08.5817128 SE Asia Standard Time" : Choose Subject  Javascript
+"2022-07-06 18:24:08.5826977 SE Asia Standard Time" : Choose Subject Activity Final Exam
+"2022-07-06 18:24:08.5846959 SE Asia Standard Time" : Score : 90
+"2022-07-06 18:24:08.5856933 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
+"2022-07-06 18:24:08.5866914 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:26:00.8720002 SE Asia Standard Time" : Update Murid From Murid {namaMurid = "Filbert", kelas = "XI", umur = 23, nik = 23565989833} To be Murid {namaMurid = "Filbert", kelas = "XII", umur = 23, nik = 23}
+"2022-07-06 18:52:40.0730548 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:52:40.0814523 SE Asia Standard Time" : Choose Subject  English
+"2022-07-06 18:52:40.0824018 SE Asia Standard Time" : Choose Subject Activity Exam 1
+"2022-07-06 18:52:40.0833999 SE Asia Standard Time" : Score : 60
+"2022-07-06 18:52:40.084426 SE Asia Standard Time" : Percentage Subject Activity of Exam 1 is : 25
+"2022-07-06 18:52:40.0863915 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:52:59.2171139 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:52:59.2181121 SE Asia Standard Time" : Choose Subject  English
+"2022-07-06 18:52:59.2191072 SE Asia Standard Time" : Choose Subject Activity Exam 2
+"2022-07-06 18:52:59.2211041 SE Asia Standard Time" : Score : 90
+"2022-07-06 18:52:59.2220982 SE Asia Standard Time" : Percentage Subject Activity of Exam 2 is : 25
+"2022-07-06 18:52:59.2230957 SE Asia Standard Time" : Input Examination succedd
+"2022-07-06 18:53:10.297138 SE Asia Standard Time" : Chooose Student :  Filbert
+"2022-07-06 18:53:10.2981382 SE Asia Standard Time" : Choose Subject  English
+"2022-07-06 18:53:10.3000589 SE Asia Standard Time" : Choose Subject Activity Final Exam
+"2022-07-06 18:53:10.3010698 SE Asia Standard Time" : Score : 99
+"2022-07-06 18:53:10.3020824 SE Asia Standard Time" : Percentage Subject Activity of Final Exam is : 50
+"2022-07-06 18:53:10.3030932 SE Asia Standard Time" : Input Examination succedd

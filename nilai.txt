@@ -1,5 +1,60 @@
 Filbert
-Jepang
-UTS
-85
+Laravel
+Exam 1
+100
 25
+Filbert
+Laravel
+Exam 2
+88
+25
+Filbert
+Laravel
+Final Exam
+99
+50
+Alfredo
+Laravel
+Exam 1
+99
+25
+Alfredo
+Laravel
+Exam 2
+99
+25
+Alfredo
+Laravel
+Final Exam
+100
+50
+Filbert
+Javascript
+Exam 1
+70
+25
+Filbert
+Javascript
+Exam 2
+80
+25
+Filbert
+Javascript
+Final Exam
+90
+50
+Filbert
+English
+Exam 1
+60
+25
+Filbert
+English
+Exam 2
+90
+25
+Filbert
+English
+Final Exam
+99
+50
